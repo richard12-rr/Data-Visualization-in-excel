@@ -36,11 +36,11 @@ The following questions were raised to guide in the objective achievement:
 ###### 7.	How is the charging plug type put into use?
 
 
-###1.	Charging rate in stations
+### 1.	Charging rate in stations
 ![Station Charging rate](https://github.com/user-attachments/assets/9ccb0327-e3a1-4ef5-a5f7-c4cf021cb246)
 From table 1.0 and fig. 1.0; it is evident that BRYANT has  the highest charging rate of 45460 count of users ID, followed by HIGH with count of Users Id 38921, HAMILTON charging station has a count of user ID 37167 in third place, WEBSTER, CAMBRIDGE, MPL, RINCONADA, TED and SHERMAN have; 36354, 31636, 27752, 17910, 16508, 32  in order of users ID count.
 
-###2.	The energy output in the stations
+### 2.	The energy output in the stations
 ![station energy  output](https://github.com/user-attachments/assets/5ee90153-2662-42a2-a26a-488ae067506e)         
 Figure 1.1 and table1.1 show that BRYANT sum of energy in kilowatts; 387293.5752 top the list of energy usage followed by HIGH with, HAMILTON, WEBSTER, CAMBRIDGE, MPL, RINCONADA, and TED in descending order. SHERMAN at the bottom of the table has least usage.
 
@@ -51,20 +51,20 @@ The rushing hour or car charging begins at 12am, it reaches the peak in the hour
 ### 4.	The charging duration count?                                                                               
 ![Station Charging duration](https://github.com/user-attachments/assets/eb97b67a-cd37-42a2-b449-5ba0ba1230d5)
 
-###5.	The gasoline saving
+### 5.	The gasoline saving
 ![Station gasoline saving](https://github.com/user-attachments/assets/3a69cf59-abb7-4a17-afd8-8fd16063f0df)
 Dashboard, chart labelled table 1.4 and figure 1.4 indicate that BRYANT Station has the leading gasoline saving per gallon closely followed by WEBSTER
 ### 6.	Port type usage
 ![Station port type usage](https://github.com/user-attachments/assets/50f2fea5-8a8f-45ed-9c49-996299aebe0f)
 According to dashboard in tagged table 1.7 and figure 1.7, level port type is the most efficiently used.
 
-###7.	Plug type Usage	
+### 7.	Plug type Usage	
 ![Station plug type Usage](https://github.com/user-attachments/assets/312d6a08-63b2-4db1-a79e-2b0ef58ff79c)
 Plug type J1772 is the most used plug across the charging judging by the count of charging duration in relation to plug type, this is evident in table 1.5 and figure 1.5
 
 ### The Insight
-###1.	Charging activities takes place in the night between hours 12am and 5am
-###2.	Some charging facilities are doing better than the other, Sherman Facility is performing ridiculously poor compared with other charging stations
+### 1.	Charging activities takes place in the night between hours 12am and 5am
+### 2.	Some charging facilities are doing better than the other, Sherman Facility is performing ridiculously poor compared with other charging stations
 ### 3.	Level 2 charging port and J1772 plug are the most used are the most.
 
 ## Recommendations
