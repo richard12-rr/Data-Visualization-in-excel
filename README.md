@@ -63,16 +63,16 @@ According to dashboard in tagged table 1.7 and figure 1.7, level port type is th
 Plug type J1772 is the most used plug across the charging judging by the count of charging duration in relation to plug type, this is evident in table 1.5 and figure 1.5
 
 ### The Insight
-######1.	Charging activities takes place in the night between hours 12am and 5am
-######2.	Some charging facilities are doing better than the other, Sherman Facility is performing ridiculously poor compared with other charging stations
-###### 3.	Level 2 charging port and J1772 plug are the most used are the most.
+###1.	Charging activities takes place in the night between hours 12am and 5am
+###2.	Some charging facilities are doing better than the other, Sherman Facility is performing ridiculously poor compared with other charging stations
+### 3.	Level 2 charging port and J1772 plug are the most used are the most.
 
 ## Recommendations
 #### 1.	Charging stations such as Sherman, Ted and Rinconada and canbridge where the capacity of charging facility was underutilized should look into reasons for the low patronage and get them fixed
 ### 2.	Going by the recommendation number one; the following areas should be looked into to ascertain the reason for low patronages 
 #### i.	The awareness of the people living in their host community about the hedge of Electric vehicle over gasoline dependent ones, if this accounted for the low patronage; aggressive advertisements and promotion must be embarked to get people switch over electric vehicles
-###### ii.	Training and retraining exercise should be given to employees to have welcoming disposition to customers who comes to charge in the stations
-###### iii.	 Loyalty and promotional discount should be given to car charging customers to make them come back again
+### ii.	Training and retraining exercise should be given to employees to have welcoming disposition to customers who comes to charge in the stations
+### iii.	 Loyalty and promotional discount should be given to car charging customers to make them come back again
 ### 3.	Human resource i.e. employees must be tutored to have enough rest during day to attend to health wellbeing.
 ### 4.	Burn out tendencies among employees must be addressed by giving off work days after a scheduled period of work to achieve employee retention.
 ### 5.	The burden of charging all through the night hours can be shared to the day hours by operating discounted charging price from 6am till evening.    
