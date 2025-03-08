@@ -1,4 +1,4 @@
-# Electric Vehicle Charging Station Performance Using Excel
+# Electric Vehicle Charging Station Performance Visualization/Tracking Using Excel
 ## OBJECTIVES TO GUIDE THE ANALYSIS
 The objective is to build a tracker for monitoring usage rates, power output, GHG saving, gasoline saving at electric vehicle charging stations. Use Excel to visualize trends in usage, peak times, and energy consumption across different locations to measure performance in United state Electric charging stations.
 Data Collection 
