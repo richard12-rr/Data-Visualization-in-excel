@@ -16,7 +16,7 @@ The dataset was gotten from Kaggle and, it contains the following information:
 ###### •	Energy (kWh): Energy Consumption in terms kilowatts 
 ###### •	GHG Savings (kg): Green house gas savings in Kilograms
 ###### •	Gasoline Savings: (gallons): Gasoline saving in gallon 
-######•	Port Type: the type of connector in use
+######•	        Port Type: the type of connector in use
 ###### •	Plug Type: The physical connector that plug into electric vehicle
 This analysis is divided into the following stages: Data cleaning, Data Exploration & Analysis, Insights, Recommendations, and Visualization.
 Data Processing & Cleaning
