@@ -1,4 +1,4 @@
-# Data-Visualization-in-excel
+![Duplicated data](https://github.com/user-attachments/assets/1f94e164-a3ce-4627-b888-bf5e549816b8)# Data-Visualization-in-excel
 
 # Electric Vehicle Charging Station Performance Using Excel
 ## OBJECTIVES TO GUIDE THE ANALYSIS
@@ -21,6 +21,7 @@ The dataset was gotten from Kaggle and, it contains the following information:
 This analysis is divided into the following stages: Data cleaning, Data Exploration & Analysis, Insights, Recommendations, and Visualization.
 Data Processing & Cleaning
 4 duplicate values were removed and 259411 unique values remain
+
 
 
 
